@@ -53,3 +53,14 @@ button:hover{
     word-spacing: 2px;
     letter-spacing: 5px;
 }
+
+@media (max-width:500px)  {
+    .first{
+        width:250px;
+    }
+}
+@media (max-width:350px){
+    .first{
+        width: 200px;
+    }
+}
