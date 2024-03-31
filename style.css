@@ -35,6 +35,7 @@ button{
     margin-top: -25px;
     margin-left: -23px;
     position: absolute;
+    border: none;
 }
 button:hover{
     cursor: pointer;
